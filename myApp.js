@@ -1,6 +1,6 @@
 let express = require('express');
 let app = express();
-console.log("An error happned")
+console.log("An error happned");
 
 
 
